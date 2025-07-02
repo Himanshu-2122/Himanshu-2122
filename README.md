@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+AI & ML Enthusiast | Generative AI | Computer Vision | Natural Language Processing | Neural Networks Hi, I'm Himanshu Vishwakarma, passionate about Generative AI
 
 
 ## 🌐 Socials:
